@@ -1,0 +1,44 @@
+h1, h4 {
+	text-align: center;
+	margin-top: 15px;
+	color: #070454
+}
+
+h4 {
+	margin-bottom: 35px;
+}
+
+img {
+	border-radius: 20%;
+	box-shadow: 10px 10px 5px #888888;
+}
+
+.photo-container {
+	text-align: center;
+	margin: auto;
+	display: inline-block;
+}
+.center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.padding-img {
+	padding: 10px;
+}
+
+.btn-offset {
+	margin-top: -45px;
+	margin-left: 170px;
+	background-color: yellow;
+	border: 3px solid #070454;
+	color: red;
+}
+.btn-thumbs-up {
+	background-color: green;
+	margin: 0 auto;
+	border-color: green;
+}
+.footer {
+	margin-bottom: 150px;
+}
